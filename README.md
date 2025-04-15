@@ -28,7 +28,8 @@ This interactive dashboard provides data-driven insights into NBA team and playe
 1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-**Run the app:**
+2. **Run the app:**
+```bash
     streamlit run dashboard.py
     
 ---
